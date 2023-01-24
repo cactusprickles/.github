@@ -15,6 +15,8 @@
 
 ## 소개합니다 🙋‍♀️
 
+`CACTUSpricles`은 프로젝트라기에는 프로젝트같지않은 프로젝트를 진행하는 Github Organization입니다.
+
 - [`@Cattamoo`](https://github.com/cattamoo)
 
 ## 프로젝트 📝
