@@ -20,3 +20,12 @@
 - [`@Cattamoo`](https://github.com/cattamoo)
 
 ## 프로젝트 📝
+
+### Component [`Input`](https://github.com/cactusprickles/components.input)
+
+HTML Element인 `<input>`을 평소에 볼 수 있는 형태의 리액트 컴포넌트로 만들어보는 프로젝트 입니다.
+
+### Component [`Header`](https://github.com/cactusprickles/components.header)
+
+다양한 사이트에서 볼 수 있는 Header를 리액트 컴포넌트로 만들어보는 프로젝트입니다.
+
